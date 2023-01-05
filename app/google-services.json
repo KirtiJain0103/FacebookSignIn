@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86359344030",
+    "project_id": "facebooksignin-215e0",
+    "storage_bucket": "facebooksignin-215e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86359344030:android:2b7417bd2e1ac34f10cc8f",
+        "android_client_info": {
+          "package_name": "com.example.facebooksignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86359344030-mck3ebtdhd6ujei9l57fvals8i4mat2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebooksignin",
+            "certificate_hash": "655e3434943bc9f9cfa3063b354f6a25cbf15e15"
+          }
+        },
+        {
+          "client_id": "86359344030-0mgeac6kitb320frcnmh6akhkbn1penp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq9JE-rzuRNuSleFd6R1waLkvlJMRcIpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86359344030-0mgeac6kitb320frcnmh6akhkbn1penp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
